@@ -1,3 +1,7 @@
+# Bookshop project 
+
+Bookshop exercise from [here](https://open.sap.com/courses/cp7/).
+
 # Getting Started
 
 Welcome to your new project.
